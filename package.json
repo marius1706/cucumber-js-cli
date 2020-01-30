@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "repository": "git@github.com:marius1706/cucumber-js-cli.git",
+  "dependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
